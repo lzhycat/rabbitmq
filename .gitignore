@@ -38,3 +38,4 @@ log/
 *.pid
 *.orig
 temp/
+*.mvn
