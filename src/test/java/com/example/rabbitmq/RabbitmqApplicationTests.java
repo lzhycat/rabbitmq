@@ -16,6 +16,7 @@ class RabbitmqApplicationTests {
     @Resource
     private RabbitTemplate rabbitTemplate;
 
+
     @Test
     public void basicQueueTest() {
         String queueName = "basicQueue";
